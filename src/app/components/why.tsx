@@ -32,13 +32,27 @@ const WhyChoose = () => {
             </p>
           </div>
         </div>
-        <div className="mt-12">
+        <div className="mt-12 flex flex-row ">
           <Image
-            src="/path/to/your/download-app.png" // Replace with your download image path
+            src="/proff.png" // Replace with your download image path
             alt="Download Compass Ai"
-            width={300}
-            height={80}
-            className="mx-auto"
+            width={400}
+            height={600}
+            className="rounded-lg "
+          />
+          <Image
+            src="/view3.png" // Replace with your download image path
+            alt="Download Compass Ai"
+            width={400}
+            height={600}
+            className="rounded-lg "
+          />
+          <Image
+            src="/bots.png" // Replace with your download image path
+            alt="Download Compass Ai"
+            width={400}
+            height={600}
+            className="rounded-lg "
           />
         </div>
       </div>
