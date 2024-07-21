@@ -12,7 +12,7 @@ const HeroSection = () => {
             Empower your journey through university with Compass Ai, the innovative app designed to streamline your academic life. Whether you're managing coursework, tracking deadlines, or seeking personalized AI-driven support, Compass Ai is here to guide you every step of the way.
           </p>
         </div>
-        <div className="flex-1 place-content-center">
+        <div className="flex-1 flex flex-col items-center">
           <Image
             src="/viewleft2.png" // Replace with your mockup image path
             alt="Compass Ai App Mockup"
