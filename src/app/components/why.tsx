@@ -32,7 +32,7 @@ const WhyChoose = () => {
             </p>
           </div>
         </div>
-        <div className="mt-12 flex flex-row ">
+        <div className="mt-12 flex flex-col items-center lg:flex-row  ">
           <Image
             src="/proff.png" // Replace with your download image path
             alt="Download Compass Ai"
